@@ -10,6 +10,8 @@ The owner reported that the final step said no model was connected. Successful b
 
 Development was stopped at the owner's request. This repository preserves the final unfinished source and the record of that failure.
 
+See [the skill usage audit](SKILL_USAGE_AUDIT.md) for what can and cannot be substantiated about the requested Pegasus workflow.
+
 ## Teardown
 
 - The Cloudflare Pages project `sprintline`, including its deployments and custom-domain association, was deleted.
